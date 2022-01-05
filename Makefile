@@ -1,6 +1,6 @@
 ##
 ## EPITECH PROJECT, 2021
-## CPP_theplazza_2020
+## CPP_trade_2021
 ## File description:
 ## makefile
 ##
